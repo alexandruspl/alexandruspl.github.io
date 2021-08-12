@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.alexandrus" name="Alexandruspl repository" version="1.0" provider-name="Alexandrus">
+    <extension point="xbmc.addon.repository" name="Alexandruspl repository">
+        <dir maxversion="18.9.9">
+            <info compressed="false">https://alexandruspl.github.io/repo/kodi_18/addons.xml</info>
+            <checksum>https://alexandruspl.github.io/repo/kodi_18/addons.xml.md5</checksum>
+            <datadir zip="true">https://alexandruspl.github.io/repo/kodi_18/</datadir>
+            <hashes>false</hashes>
+        </dir>
+        <dir minversion="19.0">
+            <info compressed="false">https://alexandruspl.github.io/repo/kodi_19/addons.xml</info>
+            <checksum>https://alexandruspl.github.io/repo/kodi_19/addons.xml.md5</checksum>
+            <datadir zip="true">https://alexandruspl.github.io/repo/kodi_19/</datadir>
+            <hashes>false</hashes>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Alexandruspl repository</summary>
+        <description>Repository</description>
+        <platform>all</platform>
+        <license/>
+        <website/>
+    </extension>
+</addon>
