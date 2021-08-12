@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="repository.alexandrus" name="Alexandruspl repository" version="1.0" provider-name="Alexandrus">
+<addon id="repository.alexandruspl" name="Alexandruspl repository" version="1.0" provider-name="Alexandrus">
     <extension point="xbmc.addon.repository" name="Alexandruspl repository">
         <dir maxversion="18.9.9">
             <info compressed="false">https://alexandruspl.github.io/repo/kodi_18/addons.xml</info>
